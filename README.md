@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Meditations and disquisitions upon the first Psalme of Dauid Blessed is the man. By Sr. Richard Bake
+
+1. TO THE Right Honorable THOMAS Lord COVENTRY Baron of Ailesborough, and Lord Keeper of the Great Seale of ENGLAND.
+Recensui Tractatum hunc in Psalmum primum, à Domino Bakero scriptum; eumque typis mandari permitto; 
 #####Body#####
-Meditations and disquisitions upon the first Psalme of Dauid Blessed is the man. By Sr. Richard Bake
+
+1. MEDITATIONS AND DISQVISITIONS upon the 1. Psalme of DAVID.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
